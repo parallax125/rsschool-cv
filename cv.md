@@ -4,7 +4,7 @@
 
 # **Kovylin Evgeniy**
 
-*Contact: telegram @Evgeniy_A_K | krasnodarkea@gmail.com*
+*Contact: telegram @Evgeniy_A_K, krasnodarkea@gmail.com*
 
 
 ## **About me:**
@@ -26,38 +26,25 @@ Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Po
 
 ## **Code example** 
 
-```C++ (arduino)
-void arrowUP (int resultInt, int sum)
-{
+
+``` C++ (arduino)
+void arrowUP (int resultInt, int sum){
   int iterations = 8; 
-  
-  for (int i = 0; i < iterations; i++) 
-  {
+  for (int i = 0; i < iterations; i++) {
     if (i % 2 == 0) 
     { 
       String symb = "+";
-
       currentValue += 5;
-
       displayReload(resultInt, sum, symb);
-
       Strelka(currentValue);
-
-    } else 
-    { 
+    } else { 
       currentValue -= 5;
-
       String symb = "+";
-
       displayReload(resultInt, sum, symb);
-
       Strelka(currentValue);
-
     }
-
     delay(150);
   }
-
 }
 ```
 
