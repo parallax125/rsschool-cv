@@ -28,8 +28,9 @@ Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Po
 
 
 
+JavaScript (ES5) (Google script)
 
-```     JavaScript (ES5) (Google script)
+```
 function findFirstEmptyCell2() {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Ошибки');
   var columnValues = sheet.getRange("E:E").getValues();
