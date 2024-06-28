@@ -2,21 +2,29 @@
 
 ![alt-photo](/photo.jpeg)
 
-# **Kovylin Evgeniy**; 
-_Contact: telegram @Evgeniy_A_K | krasnodarkea@gmail.com_
+# **Kovylin Evgeniy**
+
+*Contact: telegram @Evgeniy_A_K | krasnodarkea@gmail.com*
 ---
 
-## **About me:**##
+## **About me:** ##
+
 I have been working as a QA engineer for 5 years. I have experience in manual testing of both front and back ends. There is a desire to master the profession of a webmaster. I am also interested in programming microcontrollers based on Arduino.
 ---
 
-## **Skills**##
-### ***Tech skills:*** Some C, C++ (on Arduino), Python, JavaScript, HTTP, HTML, CSS, Kafka, MQ Rabbit, bash;<br>
-### ***Databases:*** Oracle, MS SQL Server;<br>
-### ***Environment & Tools:*** Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Postman, Arduino IDE, Google Script.<br>
+## **Skills** ##
+
+### ***Tech skills:*** 
+Some C, C++ (on Arduino), Python, JavaScript, HTTP, HTML, CSS, Kafka, MQ Rabbit, bash;<br>
+
+### ***Databases:*** 
+Oracle, MS SQL Server;<br>
+
+### ***Environment & Tools:*** 
+Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Postman, Arduino IDE, Google Script.<br>
 ---
 
-## **Code example**##
+## **Code example** ##
 
 ```C++ (arduino)
 void arrowUP (int resultInt, int sum)
@@ -77,13 +85,14 @@ function findFirstEmptyCell2() {
   return sheet.getRange(lastRow + 1, 5);
 }
 ```
+---
 
-## **Experience**##
+## **Experience** ##
 
 ### **QA middle manual testers | 2023 - Present**<br>
 ***bank Renessans Credit***
 
-### Participated in the SME project. Launch of a new direction in the bank for servicing small and medium-sized business clients.
+#### Participated in the SME project. Launch of a new direction in the bank for servicing small and medium-sized business clients. #
 
 * working with technical documentation, assessing tasks, reviewing requirements;
 * writing test scripts, drawing up test plans; creating a bug report, creating issues (Jira, Confluence);
@@ -95,7 +104,7 @@ function findFirstEmptyCell2() {
 
 
 
-## **QA middle manual testers | 2021-2023**##<br>
+## **QA middle manual testers | 2021-2023** ##<br>
 ***ООО “АйТиКью Груп”***
 
 * Integration testing between the site mkb.ru and CRM Siebel;
@@ -109,18 +118,19 @@ function findFirstEmptyCell2() {
 * Testing integration between services regarding sending and receiving payments.
 
 
-## **QA manual testers | 2018-2021**##<br>
+## **QA manual testers | 2018-2021** ##<br>
 ***EntMedia***
 
-## testing Internet portals and business logic of web applications##
+## testing Internet portals and business logic of web applications ##
 * Analysis of technical documentation;
 * Drawing up a test plan, test cases;
 * testing time estimate;
 * carrying out functional, integration and regression testing;
 * Interaction with a team of developers and analysts.
+
 ---
 
-## *Languages*##
+## *Languages* ##
 
 * English - A2 elementary;
 * Russian - Native.
