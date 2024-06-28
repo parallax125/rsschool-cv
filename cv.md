@@ -14,13 +14,13 @@ I have been working as a QA engineer for 5 years. I have experience in manual te
 
 ## **Skills** 
 
-### ***Tech skills:*** 
+#### ***Tech skills:*** 
 Some C, C++ (on Arduino), Python, JavaScript, HTTP, HTML, CSS, Kafka, MQ Rabbit, bash;<br>
 
-### ***Databases:*** 
+#### ***Databases:*** 
 Oracle, MS SQL Server;<br>
 
-### ***Environment & Tools:*** 
+#### ***Environment & Tools:*** 
 Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Postman, Arduino IDE, Google Script.<br>
 
 
