@@ -55,6 +55,35 @@ function findFirstEmptyCell2() {
 }
 ```
 
+
+
+
+C++ C11 (Arduino)
+```
+void arrowUP(int resultInt, int sum)
+{
+  int iterations = 8; 
+  
+  for (int i = 0; i < iterations; i++) 
+  {
+    if (i % 2 == 0) 
+    { 
+      String symb = "+";
+      currentValue += 5;
+      displayReload(resultInt, sum, symb);
+      Strelka(currentValue);
+    } else 
+    { 
+      currentValue -= 5;
+      String symb = "+";
+      displayReload(resultInt, sum, symb);
+      Strelka(currentValue);
+    }
+    delay(150);
+  }
+}
+```
+
 ## **Experience** ##
 
 ### **QA middle manual testers | 2023 - Present**
