@@ -1,2 +1,2 @@
 # rsschool-cv
-[Ссылка на резюмэ](https://parallax125.github.io/rsschool-cv/cv)
+[Ссылка на резюме](https://parallax125.github.io/rsschool-cv/cv)
