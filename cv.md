@@ -5,14 +5,14 @@
 # **Kovylin Evgeniy**
 
 *Contact: telegram @Evgeniy_A_K | krasnodarkea@gmail.com*
----
 
-## **About me:** ##
+
+## **About me:**
 
 I have been working as a QA engineer for 5 years. I have experience in manual testing of both front and back ends. There is a desire to master the profession of a webmaster. I am also interested in programming microcontrollers based on Arduino.
----
 
-## **Skills** ##
+
+## **Skills** 
 
 ### ***Tech skills:*** 
 Some C, C++ (on Arduino), Python, JavaScript, HTTP, HTML, CSS, Kafka, MQ Rabbit, bash;<br>
@@ -22,9 +22,9 @@ Oracle, MS SQL Server;<br>
 
 ### ***Environment & Tools:*** 
 Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Postman, Arduino IDE, Google Script.<br>
----
 
-## **Code example** ##
+
+## **Code example** 
 
 ```C++ (arduino)
 void arrowUP (int resultInt, int sum)
@@ -85,8 +85,6 @@ function findFirstEmptyCell2() {
   return sheet.getRange(lastRow + 1, 5);
 }
 ```
----
-
 ## **Experience** ##
 
 ### **QA middle manual testers | 2023 - Present**<br>
@@ -102,8 +100,6 @@ function findFirstEmptyCell2() {
 * regression testing;
 * interaction with developers, business, BA and SA.
 
-
-
 ## **QA middle manual testers | 2021-2023** ##<br>
 ***ООО “АйТиКью Груп”***
 
@@ -117,7 +113,6 @@ function findFirstEmptyCell2() {
 * Testing a mobile application on Android and iOS operating systems;
 * Testing integration between services regarding sending and receiving payments.
 
-
 ## **QA manual testers | 2018-2021** ##<br>
 ***EntMedia***
 
@@ -127,8 +122,6 @@ function findFirstEmptyCell2() {
 * testing time estimate;
 * carrying out functional, integration and regression testing;
 * Interaction with a team of developers and analysts.
-
----
 
 ## *Languages* ##
 
