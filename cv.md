@@ -27,27 +27,6 @@ Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Po
 ## **Code example** 
 
 
-``` C++ (arduino)
-void arrowUP (int resultInt, int sum){
-  int iterations = 8; 
-  for (int i = 0; i < iterations; i++) {
-    if (i % 2 == 0) 
-    { 
-      String symb = "+";
-      currentValue += 5;
-      displayReload(resultInt, sum, symb);
-      Strelka(currentValue);
-    } else { 
-      currentValue -= 5;
-      String symb = "+";
-      displayReload(resultInt, sum, symb);
-      Strelka(currentValue);
-    }
-    delay(150);
-  }
-}
-```
-
 ``` JavaScript (ES5) (Google script)
 function findFirstEmptyCell2() {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Ошибки');
@@ -74,7 +53,7 @@ function findFirstEmptyCell2() {
 ```
 ## **Experience** ##
 
-### **QA middle manual testers | 2023 - Present**<br>
+### **QA middle manual testers | 2023 - Present**
 ***bank Renessans Credit***
 
 #### Participated in the SME project. Launch of a new direction in the bank for servicing small and medium-sized business clients. #
@@ -87,7 +66,7 @@ function findFirstEmptyCell2() {
 * regression testing;
 * interaction with developers, business, BA and SA.
 
-## **QA middle manual testers | 2021-2023** ##<br>
+### **QA middle manual testers | 2021-2023**
 ***ООО “АйТиКью Груп”***
 
 * Integration testing between the site mkb.ru and CRM Siebel;
@@ -100,7 +79,7 @@ function findFirstEmptyCell2() {
 * Testing a mobile application on Android and iOS operating systems;
 * Testing integration between services regarding sending and receiving payments.
 
-## **QA manual testers | 2018-2021** ##<br>
+### **QA manual testers | 2018-2021**
 ***EntMedia***
 
 ## testing Internet portals and business logic of web applications ##
