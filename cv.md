@@ -2,23 +2,23 @@
 
 ![alt-photo](/photo.jpeg)
 
-#Kovylin Evgeniy; 
+#Kovylin Evgeniy; <h1>
 _Contact: telegram @Evgeniy_A_K | krasnodarkea@gmail.com_
 
-##*About me:*  
+##*About me:*  <h2>
 I have been working as a QA engineer for 5 years. I have experience in manual testing of both front and back ends. There is a desire to master the profession of a webmaster. I am also interested in programming microcontrollers based on Arduino.
 
-##*Skills*
+##*Skills*<h2>
 
-###_*Tech skills:*_ Some C, C++ (on Arduino), Python, JavaScript, HTTP, HTML, CSS, Kafka, MQ Rabbit, bash.
-###_*Databases:*_ Oracle, MS SQL Server
-###_*Environment & Tools:*_ Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Postman, Arduino IDE, Google Script.
+###_*Tech skills:*_ Some C, C++ (on Arduino), Python, JavaScript, HTTP, HTML, CSS, Kafka, MQ Rabbit, bash.<h3>
+###_*Databases:*_ Oracle, MS SQL Server<h3>
+###_*Environment & Tools:*_ Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Postman, Arduino IDE, Google Script.<h3>
 
-##*cCode example*
+##*Code example*<h2>
 
 ``` C++ (arduino)
 
-void arrowUP(int resultInt, int sum)
+void arrowUP (int resultInt, int sum)
 {
   int iterations = 8; 
   
@@ -79,13 +79,13 @@ function findFirstEmptyCell2() {
 
 
 
-##*Experience*
+##*Experience*<h2>
 
-##*QA middle manual testers | 2023 - Present*
+##*QA middle manual testers | 2023 - Present*<h2>
 _*bank Renessans Credit*_
 
-###Participated in the SME project. Launch of a new direction in the bank for servicing small and medium-sized business clients.
-Responsibilities:
+###Participated in the SME project. Launch of a new direction in the bank for servicing small and medium-sized business clients.<h3>
+
 * working with technical documentation, assessing tasks, reviewing requirements;
 * writing test scripts, drawing up test plans; creating a bug report, creating issues (Jira, Confluence)
 * functional, system and integration testing of web applications (front, business logic); Golden Crown(SBP); RBS web applications (web, iOS, Android); CRM; ABS CFT, Way4, Profile, Diasoft; microservice chains;
@@ -96,7 +96,7 @@ Responsibilities:
 
 
 
-##*QA middle manual testers | 2021-2023*
+##*QA middle manual testers | 2021-2023*<h2>
 _*ООО “АйТиКью Груп”*_
 
 * Integration testing between the site mkb.ru and CRM Siebel
@@ -110,17 +110,17 @@ _*ООО “АйТиКью Груп”*_
 * Testing integration between services regarding sending and receiving payments
 
 
-##*QA manual testers | 2018-2021*
+##*QA manual testers | 2018-2021*<h2>
 _*EntMedia*_
 
 ##testing Internet portals and business logic of web applications,
-Analysis of technical documentation
+Analysis of technical documentation<h2>
 * Drawing up a test plan, test cases
 * testing time estimate
 * carrying out functional, integration and regression testing
 * Interaction with a team of developers and analysts
 
-##*Languages*
+##*Languages*<h2>
 
 * English - A2 elementary
 * Russian - Native
