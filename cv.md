@@ -2,19 +2,19 @@
 
 ![alt-photo](/photo.jpeg)
 
-#Kovylin Evgeniy; <h1>
+#Kovylin Evgeniy; 
 _Contact: telegram @Evgeniy_A_K | krasnodarkea@gmail.com_
 
-##*About me:*  <h2>
+##*About me:*##
 I have been working as a QA engineer for 5 years. I have experience in manual testing of both front and back ends. There is a desire to master the profession of a webmaster. I am also interested in programming microcontrollers based on Arduino.
 
-##*Skills*<h2>
+##*Skills*##
 
-###_*Tech skills:*_ Some C, C++ (on Arduino), Python, JavaScript, HTTP, HTML, CSS, Kafka, MQ Rabbit, bash.<h3>
-###_*Databases:*_ Oracle, MS SQL Server<h3>
-###_*Environment & Tools:*_ Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Postman, Arduino IDE, Google Script.<h3>
+###_*Tech skills:*_ Some C, C++ (on Arduino), Python, JavaScript, HTTP, HTML, CSS, Kafka, MQ Rabbit, bash.<br>
+###_*Databases:*_ Oracle, MS SQL Server.<br>
+###_*Environment & Tools:*_ Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Postman, Arduino IDE, Google Script.<br>
 
-##*Code example*<h2>
+##*Code example*##
 
 ``` C++ (arduino)
 
@@ -79,12 +79,12 @@ function findFirstEmptyCell2() {
 
 
 
-##*Experience*<h2>
+##*Experience*##
 
-##*QA middle manual testers | 2023 - Present*<h2>
+##*QA middle manual testers | 2023 - Present*##<br>
 _*bank Renessans Credit*_
 
-###Participated in the SME project. Launch of a new direction in the bank for servicing small and medium-sized business clients.<h3>
+###Participated in the SME project. Launch of a new direction in the bank for servicing small and medium-sized business clients.
 
 * working with technical documentation, assessing tasks, reviewing requirements;
 * writing test scripts, drawing up test plans; creating a bug report, creating issues (Jira, Confluence)
@@ -96,7 +96,7 @@ _*bank Renessans Credit*_
 
 
 
-##*QA middle manual testers | 2021-2023*<h2>
+##*QA middle manual testers | 2021-2023*##<br>
 _*ООО “АйТиКью Груп”*_
 
 * Integration testing between the site mkb.ru and CRM Siebel
@@ -110,17 +110,17 @@ _*ООО “АйТиКью Груп”*_
 * Testing integration between services regarding sending and receiving payments
 
 
-##*QA manual testers | 2018-2021*<h2>
+##*QA manual testers | 2018-2021*##<br>
 _*EntMedia*_
 
 ##testing Internet portals and business logic of web applications,
-Analysis of technical documentation<h2>
+Analysis of technical documentation##
 * Drawing up a test plan, test cases
 * testing time estimate
 * carrying out functional, integration and regression testing
 * Interaction with a team of developers and analysts
 
-##*Languages*<h2>
+##*Languages*##
 
 * English - A2 elementary
 * Russian - Native
