@@ -27,6 +27,8 @@ Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Po
 ## **Code example** ##
 
 
+
+
 ``` JavaScript (ES5) (Google script)
 function findFirstEmptyCell2() {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Ошибки');
@@ -51,6 +53,7 @@ function findFirstEmptyCell2() {
   return sheet.getRange(lastRow + 1, 5);
 }
 ```
+
 ## **Experience** ##
 
 ### **QA middle manual testers | 2023 - Present**
