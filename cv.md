@@ -24,7 +24,7 @@ Oracle, MS SQL Server;<br>
 Windows, Debian, Mac OS, Visual Studio, PyCharm CE, Jira, Confluence, Swager, Postman, Arduino IDE, Google Script.<br>
 
 
-## **Code example** 
+## **Code example** ##
 
 
 ``` JavaScript (ES5) (Google script)
@@ -82,14 +82,14 @@ function findFirstEmptyCell2() {
 ### **QA manual testers | 2018-2021**
 ***EntMedia***
 
-## testing Internet portals and business logic of web applications ##
+* testing Internet portals and business logic of web applications;
 * Analysis of technical documentation;
 * Drawing up a test plan, test cases;
 * testing time estimate;
 * carrying out functional, integration and regression testing;
 * Interaction with a team of developers and analysts.
 
-## *Languages* ##
+## **Languages** ##
 
 * English - A2 elementary;
 * Russian - Native.
